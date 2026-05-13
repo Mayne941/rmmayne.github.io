@@ -79,7 +79,8 @@ Physarum Machines. Springer; 2016. p. 133–152
 puting.  In: Adamatzky A, editor. Advances in Physarum Machines. vol. 21. Springer; 2016. p. 3–22
 1.  Mayne  R.   Slime  mould  biotechnology.   In:  Adamatzky  AI,  editor.  Atlas  of  Physarum  Computing.
 World Scientific; 2015. p. 47–59
-Peer Reviewed Articles, Non-Primary Author
+
+## Peer Reviewed Articles, Non-Primary Author
 1.  M ̈onttinen H, Ravantti J, Mayne R, Simmonds P, Poranen M. Revealing deep evolutionary relationships
 between RNA viruses using predicted structural models of viral RNA polymerases. Molecular Biology
 and Evolution. 2025;43(msag088)

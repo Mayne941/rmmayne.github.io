@@ -15,6 +15,14 @@ Education
 * Ph.D in Computer Science, University of the West of England, Bristol, UK, 2016
 * BSc(Hons) first class in Biomedical Sciences, University of the West of England, Bristol, UK, 2013
 
+Expertise
+=====
+* Bioinformatics
+* Data Science
+* Virology
+* Unconventional Computing
+* Taxonomy
+
 Work experience
 ======
 * 2023-Present: Senior Scientist, University of Oxford
@@ -42,3 +50,7 @@ Professional memberships
 * Fellow of Linnean Society
 * ICTV Taxonomy Proposal Summary Consortium
 
+Languages
+=====
+* English (Native)
+* Italian (A2)
