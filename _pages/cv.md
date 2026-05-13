@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postgraduate Certificate of Academic Professional Practice (PGCAPP), University of the West of England, Bristol, UK, 2020 
+* Ph.D in Computer Science, University of the West of England, Bristol, UK, 2016
+* BSc(Hons) first class in Biomedical Sciences, University of the West of England, Bristol, UK, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-Present: Senior Scientist, University of Oxford
+  * Bioinformatics for NGS data analysis and virus classification on [BTRU-GEMS](https://www.expmedndm.ox.ac.uk/research/btru) project.
+  * DPhil supervisor
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2023: Principal Data Scientist, Osprey Flight Solutions
+  * Architect, deliver and monitor machine and deep learning systems for OS-INT applied to aircraft and airline safety.
+  * Line manager of data science and engineering team
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020-2021: Senior Machine Learning Engineer
+  * Details on request
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2018-2020: Lecturer in Statistics, University of the West of England
+  * Deliver mathematics and statistics content to biosciences BSc/MSc students
+  * Module leader and academic personal tutoring coordinator
+
+* 2013-2016: Research Fellow in Computational Biology & Unconventional Computing, Unviersity of the West of England
+  * Resident researcher at UWE Bristol Unconventional Computing Laboratory
+  * Associate lecturer in computer science
   
-Talks
+Professional memberships
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fellow of Institute of Biomedical Sciences
+* Fellow of Linnean Society
+* ICTV Taxonomy Proposal Summary Consortium
+
